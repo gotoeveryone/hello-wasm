@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "serve": "webpack-dev-server"
+    "serve": "webpack-dev-server -w"
   },
   "dependencies": {
     "@gotoeveryone/hello-wasm": "^0.1.0"
